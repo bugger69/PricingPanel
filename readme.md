@@ -1,0 +1,1 @@
+A demo pricing panel in vanilla css and html.
